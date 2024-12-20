@@ -7,11 +7,11 @@ This comprehensive analysis investigates key factors driving customer churn in t
 •	Gender Breakdown: Insights from the dataset do not indicate a significant gender-based difference in churn behavior, as the churn percentages were balanced between male and female customers.
 
 •Top 5 Observations in Demographics:
-1.	Senior citizens contribute more to churn rates than non-senior citizens.
-2.	Customers without dependents tend to churn more.
-3.	Customers with shorter tenure (less than 6 months) form a significant portion of churners.
-4.	Month-to-month contract users are more prone to churn.
-5.	Internet service types like fiber optic show higher churn compared to DSL.
+• Senior citizens contribute more to churn rates than non-senior citizens.
+• Customers without dependents tend to churn more.
+• Customers with shorter tenure (less than 6 months) form a significant portion of churners.
+• Month-to-month contract users are more prone to churn.
+• Internet service types like fiber optic show higher churn compared to DSL.
  
 2. Data Preparation and Cleaning
 •	Binary Conversions: Variables such as Senior Citizen were converted from binary (0/1) to more interpretable "Yes/No" labels for better readability.
@@ -32,11 +32,11 @@ o	Customers using fiber optic internet have a higher churn rate compared to DSL 
 o	Add-on services like online security and tech support significantly reduce churn likelihood.
 
 Top 5 Insights on Factors:
-1.	Customers with monthly charges over $70 are more likely to churn.
-2.	Customers opting for paperless billing show higher churn.
-3.	Customers with no online security churn at a higher rate.
-4.	Senior citizens churn more frequently, regardless of tenure.
-5.	Fiber optic internet users represent the majority of churned customers.
+• Customers with monthly charges over $70 are more likely to churn.
+• Customers opting for paperless billing show higher churn.
+• Customers with no online security churn at a higher rate.
+• Senior citizens churn more frequently, regardless of tenure.
+• Fiber optic internet users represent the majority of churned customers.
  
 4. Visualization Highlights
 •	Pie Chart for Churn Rate: Clearly illustrates the proportion of customers who have churned versus retained.
@@ -47,8 +47,8 @@ o	Visualizations of monthly charges and tenure highlight the critical thresholds
  
 5. Recommendations for Retention Strategies
 Based on the analysis, the following actions are recommended:
-1.	Targeted Offers: Provide discounts or promotions for customers with monthly contracts to encourage longer-term commitments.
-2.	Enhanced Services for Seniors: Develop tailored offerings for senior citizens, such as simplified service plans or additional support.
-3.	Improved Online Security: Promote add-on services like online security and tech support to reduce churn among high-risk groups.
-4.	Flexible Payment Plans: Incentivize customers using electronic checks to switch to automated payment methods.
-5.	Focus on High-Charge Customers: Monitor and engage customers with monthly charges exceeding $70 to preempt churn.
+• Targeted Offers: Provide discounts or promotions for customers with monthly contracts to encourage longer-term commitments.
+• Enhanced Services for Seniors: Develop tailored offerings for senior citizens, such as simplified service plans or additional support.
+• Improved Online Security: Promote add-on services like online security and tech support to reduce churn among high-risk groups.
+• Flexible Payment Plans: Incentivize customers using electronic checks to switch to automated payment methods.
+• Focus on High-Charge Customers: Monitor and engage customers with monthly charges exceeding $70 to preempt churn.
