@@ -5,7 +5,8 @@ This comprehensive analysis investigates key factors driving customer churn in t
 •	Churn Rate: A churn rate of 26.54% was identified, highlighting a significant portion of customers leaving the service. This is visualized in a pie chart, providing a clear perspective on the magnitude of the issue.
 •	Senior Citizens: Comparative analysis revealed that senior citizens have a higher churn rate than younger customers.
 •	Gender Breakdown: Insights from the dataset do not indicate a significant gender-based difference in churn behavior, as the churn percentages were balanced between male and female customers.
-•	Top 5 Observations in Demographics:
+
+•Top 5 Observations in Demographics:
 1.	Senior citizens contribute more to churn rates than non-senior citizens.
 2.	Customers without dependents tend to churn more.
 3.	Customers with shorter tenure (less than 6 months) form a significant portion of churners.
@@ -29,6 +30,7 @@ CustomerID	Gender	Senior Citizen	Tenure	Monthly Charges	Total Charges	Churn
 •	Service Preferences:
 o	Customers using fiber optic internet have a higher churn rate compared to DSL users.
 o	Add-on services like online security and tech support significantly reduce churn likelihood.
+
 Top 5 Insights on Factors:
 1.	Customers with monthly charges over $70 are more likely to churn.
 2.	Customers opting for paperless billing show higher churn.
@@ -44,7 +46,6 @@ o	A bar chart comparing the churn rate across contract types emphasizes the need
 o	Visualizations of monthly charges and tenure highlight the critical thresholds influencing churn behavior.
  
 5. Recommendations for Retention Strategies
-
 Based on the analysis, the following actions are recommended:
 1.	Targeted Offers: Provide discounts or promotions for customers with monthly contracts to encourage longer-term commitments.
 2.	Enhanced Services for Seniors: Develop tailored offerings for senior citizens, such as simplified service plans or additional support.
