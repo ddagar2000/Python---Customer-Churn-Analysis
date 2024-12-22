@@ -10,10 +10,15 @@ This comprehensive analysis investigates key factors driving customer churn in t
 •	Gender Breakdown: Insights from the dataset do not indicate a significant gender-based difference in churn behavior, as the churn percentages were balanced between male and female customers.
 
 •Top 5 Observations in Demographics:
+
 • Senior citizens contribute more to churn rates than non-senior citizens.
+
 • Customers without dependents tend to churn more.
+
 • Customers with shorter tenure (less than 6 months) form a significant portion of churners.
+
 • Month-to-month contract users are more prone to churn.
+
 • Internet service types like fiber optic show higher churn compared to DSL.
  
 2. Data Preparation and Cleaning
@@ -44,10 +49,15 @@ o	Customers using fiber optic internet have a higher churn rate compared to DSL 
 o	Add-on services like online security and tech support significantly reduce churn likelihood.
 
 Top 5 Insights on Factors:
+
 • Customers with monthly charges over $70 are more likely to churn.
+
 • Customers opting for paperless billing show higher churn.
+
 • Customers with no online security churn at a higher rate.
+
 • Senior citizens churn more frequently, regardless of tenure.
+
 • Fiber optic internet users represent the majority of churned customers.
  
 4. Visualization Highlights
@@ -59,10 +69,13 @@ Top 5 Insights on Factors:
 •	Comparative Analysis Charts:
 
 o	A bar chart comparing the churn rate across contract types emphasizes the need for long-term contracts.
+
 o	Visualizations of monthly charges and tenure highlight the critical thresholds influencing churn behavior.
  
 5. Recommendations for Retention Strategies
+
 Based on the analysis, the following actions are recommended:
+
 • Targeted Offers: Provide discounts or promotions for customers with monthly contracts to encourage longer-term commitments.
 • Enhanced Services for Seniors: Develop tailored offerings for senior citizens, such as simplified service plans or additional support.
 • Improved Online Security: Promote add-on services like online security and tech support to reduce churn among high-risk groups.
