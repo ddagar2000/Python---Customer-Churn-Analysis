@@ -77,7 +77,11 @@ o	Visualizations of monthly charges and tenure highlight the critical thresholds
 Based on the analysis, the following actions are recommended:
 
 • Targeted Offers: Provide discounts or promotions for customers with monthly contracts to encourage longer-term commitments.
+
 • Enhanced Services for Seniors: Develop tailored offerings for senior citizens, such as simplified service plans or additional support.
+
 • Improved Online Security: Promote add-on services like online security and tech support to reduce churn among high-risk groups.
+
 • Flexible Payment Plans: Incentivize customers using electronic checks to switch to automated payment methods.
+
 • Focus on High-Charge Customers: Monitor and engage customers with monthly charges exceeding $70 to preempt churn.
